@@ -1,4 +1,4 @@
-# SRE Competency Matrix (Лопата Компетенцій)
+# SRE Competency Matrix (Лопата Компетенцій) Concept: Порівняльний аналіз інструментів для розгортання Kubernetes кластерів
 Competency Matrix for Site Reliability Engineering (SRE)
 
 Youtube Episode: https://youtu.be/liCoNksG_hM
